@@ -28,7 +28,17 @@ Please note that the use of web scraping or API querying may be subject to the t
 ## License
 
 This script is provided under the [MIT License](LICENSE), allowing for free use, modification, and distribution, with no warranties or liabilities. Please refer to the [LICENSE](LICENSE) file for more information.
+## DONATE SRAVstudios
 
+**BTC** - bc1q5kmqqynratseyh7v0n8q58rn7p5xejuemmc4px
+
+**USDT(ETH)**  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
+
+**USDT(SOLANA)**  - 4MjmiAwiQT1cqb5fSpvdsKCabZAKxopcMsTqem9gWBqB
+
+**USDT(POLYGON)**  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
+
+**ETH**  - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
 ## Contributing
 
 If you would like to contribute to this repository, feel free to fork the repository, make changes, and submit a pull request. Contributions are welcome and greatly appreciated!
